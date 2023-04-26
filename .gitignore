@@ -1,8 +1,8 @@
 # Data files
-*data*
+
 *dataframe*
 *runs
 *wandb
-
+CLEVR*
 # VS Code files
 .vscode
