@@ -1,3 +1,8 @@
 # Data files
-*data
+*data*
 *dataframe*
+*runs
+*wandb
+
+# VS Code files
+.vscode
